@@ -1,0 +1,36 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+
+    <!-- app tool bar -->
+    <dimen name="app_tool_bar">400dp</dimen>
+
+
+
+
+    <dimen name="dm_2dp">2dp</dimen>
+    <dimen name="dm_4dp">4dp</dimen>
+    <dimen name="dm_6dp">6dp</dimen>
+    <dimen name="dm_8dp">8dp</dimen>
+    <dimen name="dm_10dp">10dp</dimen>
+    <dimen name="dm_12dp">12dp</dimen>
+    <dimen name="dm_14dp">14dp</dimen>
+    <dimen name="dm_16dp">16dp</dimen>
+    <dimen name="dm_18dp">18dp</dimen>
+    <dimen name="dm_20dp">20dp</dimen>
+    <dimen name="dm_22dp">22dp</dimen>
+    <dimen name="dm_24dp">24dp</dimen>
+    <dimen name="dm_26dp">26dp</dimen>
+    <dimen name="dm_28dp">28dp</dimen>
+    <dimen name="dm_30dp">30dp</dimen>
+    <dimen name="dm_32dp">32dp</dimen>
+
+</resources>
